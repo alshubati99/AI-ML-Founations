@@ -1,5 +1,5 @@
 # Computer Vision Deep Dive in Python.
-# [*Course Certificate*]()
+# [*Course Certificate*](https://www.linkedin.com/learning/certificates/5b7974bdae0d0ee8d50f109ee4cf9d6be43994be9b06148f7caa249296f19af1)
 
 ### [1] Setting up Environment:
 1. Download `Python`
