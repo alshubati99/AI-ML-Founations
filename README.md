@@ -1,5 +1,5 @@
 # Getting Started with Artificial Intelligence and Machine Learning. 
-# [*Learning Path Certificate*]()
+# [*Learning Path Certificate*](https://www.linkedin.com/learning/certificates/bd3ccdd36eb90dce6f5a135c3171e4f17c3279729bc29ca7a27e13eb3b28acf3?u=60693444)
 
 ## Learning Path Courses: 
 
