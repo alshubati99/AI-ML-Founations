@@ -1,5 +1,5 @@
 # Deep Learning Foundations: Natural Language Processing with TensorFlow.
-# [*course Certificate*]()
+# [*Course Certificate*](https://www.linkedin.com/learning/certificates/1564e5fb6ba4c9a5d3144712a609f9e7ea1222e4e0c6a6a3d3f8939c79daf75e)
 
 ### [1] Getting Started with NLP:
 - NLP: area of CS and AI that enables the interaction of computers with humans through natural language.
